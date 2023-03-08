@@ -1,7 +1,7 @@
 # DAISGram
 Repository per il progetto di Laboratorio di Programmazione
 
-I dettagli del progetto sono visibili [qui](https://docs.google.com/document/d/1G9mSJaCNfDTd1uzwQlgYWjXfUNXsz7EzLuoDCranRHU/edit#)
+I dettagli del progetto sono visibili [qui](https://www.dropbox.com/s/7lx77rwfglj3ycv/project_cpp.docx?dl=0)
 
 ## Libreria per BMP
 Per testare il corretto funzionamento della libreria (libbmp) dovete lanciare il comando `make testbmp` e successivamente `./test_bmp`.
