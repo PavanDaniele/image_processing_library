@@ -9,10 +9,7 @@
 - [Green-Screen (o chroma-key)](#Green-Screen-(o-chroma-key))
 - [Equalizzazione Immagine](#Equalizzazione-Immagine)
 - [Gestione Errori](#Gestione-Errori)
-- [Green-Screen (o chroma-key)](#Green-Screen-(o-chroma-key))
-
-- Equalizzazione Immagine
-
+- 
 # Scopo 
 Realizzare una libreria in linguaggio C++ per effettuare operazioni di elaborazione di immagini (image processing).
 Il progetto è diviso in tre parti: 
