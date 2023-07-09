@@ -3,13 +3,13 @@
 - [Scppo](#Scopo)
 - [Introduzione al progetto](#Introduzione-al-progetto)
 - [Il Progetto](#Il-Progetto)
-   - [PARTE 1: strutture dati, operazioni matematiche e gestione memoria](#PARTE-1:-strutture-dati,-operazioni-matematiche-e-gestione-memoria)
-   - [PARTE 2: Operazioni semplici con immagini](#PARTE-2:-Operazioni-semplici-con-immagini)
-   - [PARTE 3: Convoluzione e filtraggio](#PARTE-3:-Convoluzione-e-filtraggio)
-- [Green-Screen (o chroma-key)](#Green-Screen-(o-chroma-key))
+   - [PARTE 1: strutture dati, operazioni matematiche e gestione memoria](##PARTE-1:-strutture-dati,-operazioni-matematiche-e-gestione-memoria)
+   - [PARTE 2: Operazioni semplici con immagini](##PARTE-2:-Operazioni-semplici-con-immagini)
+   - [PARTE 3: Convoluzione e filtraggio](##PARTE-3:-Convoluzione-e-filtraggio)
+- [Green Screen (o chroma key)](#Green-Screen-(o-chroma-key))
 - [Equalizzazione Immagine](#Equalizzazione-Immagine)
 - [Gestione Errori](#Gestione-Errori)
-- 
+
 # Scopo 
 Realizzare una libreria in linguaggio C++ per effettuare operazioni di elaborazione di immagini (image processing).
 Il progetto è diviso in tre parti: 
@@ -221,7 +221,7 @@ dovranno quindi essere moltiplicati per new_max in modo da essere nel range [0,n
 
 Il metodo clamp vincola l’intervallo di valori tra un valore minimo e uno massimo (maggiori dettagli in tensor.h).
 
-# Green-Screen (o chroma-key):
+# Green Screen (o chroma key):
 Il green screen è una tecnica cinematografica che permette di sostituire uno sfondo a tinta uniforme con uno desiderato. E’ tutt’ora largamente utilizzato in tantissime produzioni (Matrix, Avengers etc…).
 
 ![image](https://github.com/PavanDaniele/image_processing_library/assets/127297363/1bceb0a7-0815-499d-a9c8-7303361b92ba)  ![image](https://github.com/PavanDaniele/image_processing_library/assets/127297363/3e3ae752-379f-47d5-a63f-7cd8a07bc6aa)
