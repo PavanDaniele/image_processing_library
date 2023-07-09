@@ -6,7 +6,7 @@
    - [PARTE 1: strutture dati, operazioni matematiche e gestione memoria](##PARTE-1:-strutture-dati,-operazioni-matematiche-e-gestione-memoria)
    - [PARTE 2: Operazioni semplici con immagini](##PARTE-2:-Operazioni-semplici-con-immagini)
    - [PARTE 3: Convoluzione e filtraggio](##PARTE-3:-Convoluzione-e-filtraggio)
-- [Green Screen (o chroma key)](#Green-Screen-(o-chroma-key))
+- [Green Screen (o chroma key)](#Green-Screen-(-o-chroma-key-))
 - [Equalizzazione Immagine](#Equalizzazione-Immagine)
 - [Gestione Errori](#Gestione-Errori)
 
